@@ -16,32 +16,20 @@ input
     background: grey
 }
 
-
-.nutrition_li
+.enviroment_li
 {
-  margin-top: 13px;
+   margin-top: 13px;    
 }
-
-.nutrition_li h4
+.enviroment_li h4
 {
     border-bottom: 1px solid white;
     padding: 8px;
 }
-
-.nutrition_li img
+.enviroment_li img
 {
-  border-radius: 25px;
+    border-radius: 25px;
 }
-
-.nutrition_li p
+.enviroment.li p
 {
-  margin-top:10px;
+    margin-top:10px;
 }
-
-.header_entrepreneur
-{
-  line-height: 2;
-}
-
-
-
