@@ -1,35 +1,32 @@
-#contact iframe
+
+
+.book
 {
-    width: 100%;
-}
-.contact_1 h3
-{
-    display: inline;
-}
-.contact_1 a
-{
-    text-shadow: none;
-}
- 
-input
-{
-    background: grey
+  cursor: pointer;
 }
 
-.enviroment_li
+.sport hr
 {
-   margin-top: 13px;    
+  margin-bottom: 10px;
 }
-.enviroment_li h4
+
+.modal-content
 {
-    border-bottom: 1px solid white;
-    padding: 8px;
+  margin-top: 100px;
 }
-.enviroment_li img
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
 {
-    border-radius: 25px;
+    text-align: center
 }
-.enviroment.li p
-{
-    margin-top:10px;
-}
+
+
+
